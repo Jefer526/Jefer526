@@ -1,5 +1,12 @@
                                     Hi there, I'm Jefferson Pérez 👋
 
+
+
+
+
+![image](https://github.com/user-attachments/assets/332c60b1-8247-4a67-877c-1cb5c5e5f176)
+
+
 <!--
 **Jefer526/Jefer526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
