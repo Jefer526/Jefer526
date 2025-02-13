@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center"> Hi there, I'm Jefferson Pérez 👋 👋</h1>
 </div>
-<img src=![image](https://github.com/user-attachments/assets/fedd362f-fa6b-475f-a69b-d1050f3987de)
->
+![image](https://github.com/user-attachments/assets/4be1d876-28b8-4d46-8b5b-5068e448e857)
 
 ## About me
 
